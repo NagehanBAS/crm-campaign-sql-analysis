@@ -1,2 +1,37 @@
-# crm-campaign-sql-analysis
-SQL analysis of CRM campaign data, covering table creation, data insertion, data inspection, and data type conversion.
+
+# CRM Campaign SQL Analysis
+
+## Project Overview
+This project explores CRM campaign data using SQL and demonstrates fundamental database operations through a structured dataset.
+
+## Objectives
+- Create a relational database table.
+- Insert and manage campaign records.
+- Retrieve and inspect data using SQL queries.
+- Apply data type conversion using `CAST()`.
+
+## Dataset
+The dataset contains 80 CRM campaign records with the following fields:
+
+| Column | Data Type |
+|---|---|
+| id | INTEGER (Primary Key) |
+| campaign_id | INTEGER |
+| campaign_title | TEXT |
+| send_count | INTEGER |
+| open_count | INTEGER |
+| click_count | INTEGER |
+| revenue | NUMERIC |
+
+## Tools & Technologies
+- SQL
+- SQLite
+
+## SQL Concepts
+`CREATE TABLE` · `INSERT INTO` · `SELECT` · `CAST()`
+
+## Project Scope
+This project focuses on foundational SQL skills, data structure creation, data insertion, data retrieval, and basic data type conversion.
+
+## Author
+Nagehan BAS
