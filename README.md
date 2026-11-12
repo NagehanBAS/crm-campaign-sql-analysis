@@ -35,3 +35,11 @@ This project focuses on foundational SQL skills, data structure creation, data i
 
 ## Author
 Nagehan BAS
+
+## How to Run
+1. Open the SQL file using an SQLite-compatible environment.
+2. Execute the script from top to bottom.
+3. Review the query outputs.
+
+## Project File
+- [crm_campaign_analysis.sql](crm_campaign_analysis.sql)
